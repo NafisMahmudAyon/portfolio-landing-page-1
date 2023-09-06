@@ -30,11 +30,11 @@ export default function Home() {
             <div className=" min-h-[100px] h-auto  md:col-span-2  lg:col-span-2 bg-white ">
               <div className=" py-[17px] px-[25px] mb-[24px] "></div>
             </div>
-            <div className=" min-h-[100px] h-auto md:col-span-1  lg:col-span-1 bg-white "></div>
-            <div className=" min-h-[100px] h-auto   md:col-span-1 lg:col-span-2 bg-white "></div>
-            <div className=" min-h-[100px] h-auto md:col-span-2  lg:col-span-1 bg-white "></div>
-            <div className=" min-h-[100px] h-auto  md:col-span-2  lg:col-span-2 bg-white "></div>
-            <div className=" min-h-[100px] h-auto  md:col-span-2  lg:col-span-2 bg-white "></div>
+            <div className=" min-h-[100px] h-auto md:col-span-1  lg:col-span-1 relative  before:content before:absolute before:left-0 before:top-0 before:w-full before:h-full before:z-[1] before:bg-gradient-to-r from-[#ffffff4d] to-[#ffffff0d] before:opacity-25 before: group before:rounded-[30px] before:border-[.5px] before:border-[#ffffff26] after:top-0 after:content after:absolute after:right-0 after:left-0 after:bottom-0 after:bg-gradient-to-r from-[#ffffff1f] to-[#ffffff03] after:z-[-1]  "></div>
+            <div className=" min-h-[100px] h-auto   md:col-span-1 lg:col-span-2 relative  before:content before:absolute before:left-0 before:top-0 before:w-full before:h-full before:z-[1] before:bg-gradient-to-r from-[#ffffff4d] to-[#ffffff0d] before:opacity-25 before: group before:rounded-[30px] before:border-[.5px] before:border-[#ffffff26] after:top-0 after:content after:absolute after:right-0 after:left-0 after:bottom-0 after:bg-gradient-to-r from-[#ffffff1f] to-[#ffffff03] after:z-[-1]  "></div>
+            <div className=" min-h-[100px] h-auto md:col-span-2  lg:col-span-1 relative  before:content before:absolute before:left-0 before:top-0 before:w-full before:h-full before:z-[1] before:bg-gradient-to-r from-[#ffffff4d] to-[#ffffff0d] before:opacity-25 before: group before:rounded-[30px] before:border-[.5px] before:border-[#ffffff26] after:top-0 after:content after:absolute after:right-0 after:left-0 after:bottom-0 after:bg-gradient-to-r from-[#ffffff1f] to-[#ffffff03] after:z-[-1]  "></div>
+            <div className=" min-h-[100px] h-auto  md:col-span-2  lg:col-span-2 relative  before:content before:absolute before:left-0 before:top-0 before:w-full before:h-full before:z-[1] before:bg-gradient-to-r from-[#ffffff4d] to-[#ffffff0d] before:opacity-25 before: group before:rounded-[30px] before:border-[.5px] before:border-[#ffffff26] after:top-0 after:content after:absolute after:right-0 after:left-0 after:bottom-0 after:bg-gradient-to-r from-[#ffffff1f] to-[#ffffff03] after:z-[-1]  "></div>
+            <div className=" min-h-[100px] h-auto  md:col-span-2  lg:col-span-2 relative  before:content before:absolute before:left-0 before:top-0 before:w-full before:h-full before:z-[1] before:bg-gradient-to-r from-[#ffffff4d] to-[#ffffff0d] before:opacity-25 before: group before:rounded-[30px] before:border-[.5px] before:border-[#ffffff26] after:top-0 after:content after:absolute after:right-0 after:left-0 after:bottom-0 after:bg-gradient-to-r from-[#ffffff1f] to-[#ffffff03] after:z-[-1]  "></div>
           </div>
         </div>
       </Layout>
